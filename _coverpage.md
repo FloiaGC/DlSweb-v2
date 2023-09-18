@@ -6,8 +6,7 @@
 
 - 简单、轻便 (压缩后 ~14mB)
 - 无需 繁杂配置 ，开箱即用
-- 灵活编写正则，易于拓展！
+- 自定义添加更多功能
 
-[Gitee](https://gitee.com/dlcn/dlscq)
-[站点开源Github](https://github.com/Snowxkh/DlSweb-v2)
 [快速开始](docs/01.md)
+[Gitee](https://gitee.com/dlcn/dlscq)

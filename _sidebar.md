@@ -1,3 +1,8 @@
 * [😀 关于本站](README.md)
-* [✈ 快速开始](docs/01.md)
-*
+* [✈ 快速开始](docs/1.md)
+* [💻 特殊操作](docs/2.md)
+* [📑 配置解读](docs/3.md)
+* [📦 Linux相关](docs/4.md)
+* [❓ FAQ_问题](docs/5.md)
+* [📡 更新日志](docs/6.md)
+* [💬 联系我们](qq.md)

@@ -1,5 +1,5 @@
-* [快速开始](docs/01.md)
-* [帮助]()
+* [快速开始](docs/1.md)
+* [帮助](docs/5.md)
 * [问题反馈](https://gitee.com/dlcn/dlscq/issues)
-* [QQ交流群](docs/qq.md)
+* [联系我们](qq.md)
 * [关于](README.md)

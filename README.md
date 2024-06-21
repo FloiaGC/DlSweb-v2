@@ -32,8 +32,10 @@ DLS面向服务端管理，不更改游戏内容。支持主流开服平台如Wi
 > 并不是所有的服务器核心都支持DLS，您可以向QQ交流群进行相关实用性的报告
 
 * Bedrock Dedicated Server
-  * LiteLoaderBDS
+  * LeviLamina(原LiteLoaderBDS)
+  * BDSX
 * Vanilla
+  * 
 * Bukkit
   * Spigot
   * Paper
@@ -45,10 +47,12 @@ DLS面向服务端管理，不更改游戏内容。支持主流开服平台如Wi
 * Nukkit
   * PowerNukkitX
 * BungeeCord
+  * WaterFall
+  * Velocity
 
 ## 关于DLS的站点
 
-> DLSweb2.0是由[雪风先生（原冬蝶空）](https://github.com/Virgil692)开发的一个易于翻阅使用的新站点，基于Github开源的[docsify](https://github.com/docsifyjs/docsify)框架自主定制
+> DLSweb2.0 基于Github开源的[docsify](https://github.com/docsifyjs/docsify)框架自主定制
 
 ### 先决条件
 
@@ -96,7 +100,7 @@ Listening at http://localhost:3000
 ```
 MIT License
 
-Copyright (c) 2023 StarTech org.
+Copyright (c) 2023 FloiaGC
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

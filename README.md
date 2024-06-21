@@ -35,7 +35,7 @@ DLS面向服务端管理，不更改游戏内容。支持主流开服平台如Wi
   * LeviLamina(原LiteLoaderBDS)
   * BDSX
 * Vanilla
-  * 
+  * MCDReforged
 * Bukkit
   * Spigot
   * Paper
